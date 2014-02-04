@@ -1,0 +1,19 @@
+{
+  "name": "epaaad-sync",
+  "version": "0.0.1",
+  "description": "epaaad sync plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epaaad",
+    "sync",
+    "angularjs"
+  ],
+  "author": "Krzysztof Antczak",
+  "license": "MIT",
+  "dependencies": {
+    "diff_match_patch": "~0.1.1"
+  }
+}
